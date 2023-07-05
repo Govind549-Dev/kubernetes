@@ -27,8 +27,8 @@ _____________________
   * sub-item-01
   * sub item-02
 - Item-2
-   -  sub item-2
-   -  sub item-2
+  - sub item-2
+  - sub item-2
 ## Order List
 1. Item-01
     1. sub item-01
