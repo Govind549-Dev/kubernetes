@@ -1,4 +1,5 @@
-# Header 1
+# Header 
+-------------
 ## Header 2
 ### Header 3
 #### Header 4
@@ -8,3 +9,7 @@ H2
 =======
 H1
 ---------
+
+*Italic This is Italic letters*
+** Bold Letters**
+~~ Strightthrough   ~~
