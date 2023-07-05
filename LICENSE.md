@@ -11,5 +11,5 @@ H1
 ---------
 
 *Italic This is Italic letters*
-** Bold Letters**
-~~ Strightthrough   ~~
+**Bold Letters**
+~~Strightthrough~~
